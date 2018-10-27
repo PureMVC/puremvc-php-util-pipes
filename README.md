@@ -1,7 +1,7 @@
 ## [PureMVC](http://puremvc.github.com/) [PHP](https://github.com/PureMVC/puremvc-php-multicore-framework/wiki) Utility: Pipes
 This utility provides the capability for creating pipelines that pass messages between Cores in a PureMVC MultiCore-based application. Pipelines can contain filters, queues, splitting and merging tees, and more.
 
-* [API Docs](http://darkstar.puremvc.org/content_header.html?url=http://puremvc.org/pages/docs/PHP/Utility_PHP_MultiCore_Pipes/docs/&desc=PureMVC%20MultiCore%20Docs%20PHP%20Utility:%20Pipes)
+* [API Docs](http://puremvc.org/pages/docs/PHP/Utility_PHP_MultiCore_Pipes/docs/)
 * [Discussion](http://forums.puremvc.org/index.php?topic=2062.0)
 
 ## Status
